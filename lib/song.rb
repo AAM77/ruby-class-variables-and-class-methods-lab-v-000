@@ -71,7 +71,7 @@ class Song
       end # if-else
     end # do
 
-      return @@artist_count
+    return @@artist_count
   end
 
 end # of class
