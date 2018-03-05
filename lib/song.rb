@@ -58,7 +58,7 @@ class Song
       end # if-else
     end # do
 
-      return @@genre_count
+    return @@genre_count
   end
 
   # returns a hash of artists and the number of songs by that artist
