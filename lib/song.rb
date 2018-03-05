@@ -74,6 +74,4 @@ class Song
       return @@artist_count
   end
 
-
-
 end # of class
